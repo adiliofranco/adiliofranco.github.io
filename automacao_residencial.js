@@ -23,4 +23,52 @@ function AlteraRele2(){
         document.getElementById("botao_2").innerHTML="<a href='/?2_ligar' class='botao_2'>Liga</a>";
     }
 }
+function AlteraRele3(){
+    var estado_3 = document.getElementById("estado_3").innerHTML;
+    if(estado_3 === "0"){
+        document.getElementById("estado_3").innerHTML="1";
+        document.getElementById("rele_3").innerHTML="<div class='rele3_ligado'></div>";
+		document.getElementById("botao_3").innerHTML="<a href='/?3_desligar' class='botao_3'>Desliga</a>";
+    } else {
+        document.getElementById("estado_3").innerHTML="0";
+        document.getElementById("rele_3").innerHTML="<div class='rele3_desligado'></div>";
+        document.getElementById("botao_3").innerHTML="<a href='/?3_ligar' class='botao_3'>Liga</a>";
+    }
+}
+function AlteraRele4(){
+    var estado_4 = document.getElementById("estado_4").innerHTML;
+    if(estado_4 === "0"){
+        document.getElementById("estado_4").innerHTML="1";
+        document.getElementById("rele_4").innerHTML="<div class='rele4_ligado'></div>";
+		document.getElementById("botao_4").innerHTML="<a href='/?4_desligar' class='botao_4'>Desliga</a>";
+    } else {
+        document.getElementById("estado_4").innerHTML="0";
+        document.getElementById("rele_4").innerHTML="<div class='rele4_desligado'></div>";
+        document.getElementById("botao_4").innerHTML="<a href='/?4_ligar' class='botao_4'>Liga</a>";
+    }
+}
+function AlteraRele5(){
+    var estado_5 = document.getElementById("estado_5").innerHTML;
+    if(estado_5 === "0"){
+        document.getElementById("estado_5").innerHTML="1";
+        document.getElementById("rele_5").innerHTML="<div class='rele5_ligado'></div>";
+		document.getElementById("botao_5").innerHTML="<a href='/?5_desligar' class='botao_5'>Desliga</a>";
+    } else {
+        document.getElementById("estado_5").innerHTML="0";
+        document.getElementById("rele_5").innerHTML="<div class='rele5_desligado'></div>";
+        document.getElementById("botao_5").innerHTML="<a href='/?5_ligar' class='botao_5'>Liga</a>";
+    }
+}
+function AlteraRele6(){
+    var estado_6 = document.getElementById("estado_6").innerHTML;
+    if(estado_6 === "0"){
+        document.getElementById("estado_6").innerHTML="1";
+        document.getElementById("rele_6").innerHTML="<div class='rele6_ligado'></div>";
+		document.getElementById("botao_6").innerHTML="<a href='/?6_desligar' class='botao_6'>Desliga</a>";
+    } else {
+        document.getElementById("estado_6").innerHTML="0";
+        document.getElementById("rele_6").innerHTML="<div class='rele6_desligado'></div>";
+        document.getElementById("botao_6").innerHTML="<a href='/?6_ligar' class='botao_6'>Liga</a>";
+    }
+}
  
