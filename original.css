@@ -68,30 +68,30 @@ div.rele2_desligado {
 }
 
 #div1 {
-	position: absolute;
-	right: 1185px;
-	top: 15px;
-    border-radius: 25px;
-    border: 5px solid #000000;
-    width: 250px;
-    height: 100px; 
-}
-
-#div2 {
-	position: absolute;
-	right: 85px;
-	top: 355px;
+	    position: absolute;
+    right: 385px;
+    top: 40px;
     border-radius: 25px;
     border: 2px solid #000000;
     width: 350px;
     height: 150px; 
 }
 
+#div2 {
+	    position: absolute;
+    right: 2px;
+    top: 40px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    width: 350px;
+    height: 150px;
+}
+
 #botao{
-    position: absolute;
-    right: 230px;
-    top: 250px;
-	 width: 200px;
+        position: absolute;
+    right: 500px;
+    top: 90px;
+    width: 220px;
     height: 256px;
 }
 
@@ -125,10 +125,10 @@ div.rele2_desligado {
 }
 
 #botao_2{
-    position: absolute;
+       position: absolute;
     right: 230px;
-    top: 417px;
-	 width: 200px;
+    top: 87px;
+    width: 105px;
     height: 256px;
 }
 
