@@ -66,280 +66,280 @@ div.rele2_desligado {
 
 div.rele3_ligado {
     position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+    right: 620px;
+    top: 300px;
+    width: 200px;
+    height: 95px;
     border: none;
     background: url(lampada_ligada.png) no-repeat left top;
 }
 
 div.rele3_desligado {
     position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+    right: 620px;
+    top: 300px;
+    width: 200px;
+    height: 95px;
     border: none;
-	background: url(lampada_desligada.png) no-repeat left top;
+    background: url(lampada_desligada.png) no-repeat left top;
 }
 
 div.rele4_ligado {
     position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+   right: 170px;
+    top: 300px;
+    width: 200px;
+    height: 95px;
     border: none;
     background: url(lampada_ligada.png) no-repeat left top;
 }
 
 div.rele4_desligado {
     position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+   right: 170px;
+    top: 300px;
+    width: 200px;
+    height: 95px;;
     border: none;
 	background: url(lampada_desligada.png) no-repeat left top;
 }
 
 div.rele5_ligado {
     position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+    right: 620px;
+    top: 500px;
+    width: 200px;
+    height: 95px;
     border: none;
     background: url(lampada_ligada.png) no-repeat left top;
 }
 
 div.rele5_desligado {
     position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+    right: 620px;
+    top: 500px;
+    width: 200px;
+    height: 95px;
     border: none;
 	background: url(lampada_desligada.png) no-repeat left top;
 }
 
 div.rele6_ligado {
     position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+    right: 170px;
+    top: 500px;
+    width: 200px;
+    height: 95px;;
     border: none;
     background: url(lampada_ligada.png) no-repeat left top;
 }
 
 div.rele6_desligado {
     position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+    right: 170px;
+    top: 500px;
+    width: 200px;
+    height: 95px;;
     border: none;
 	background: url(lampada_desligada.png) no-repeat left top;
 }
 
 div.rele7_ligado {
-    position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+     position: absolute;
+    right: 620px;
+    top: 700px;
+    width: 200px;
+    height: 95px;
     border: none;
     background: url(lampada_ligada.png) no-repeat left top;
 }
 
 div.rele7_desligado {
     position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+    right: 620px;
+    top: 700px;
+    width: 200px;
+    height: 95px;
     border: none;
 	background: url(lampada_desligada.png) no-repeat left top;
 }
 
 div.rele8_ligado {
     position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+    right: 170px;
+    top: 900px;
+    width: 200px;
+    height: 95px;
     border: none;
     background: url(lampada_ligada.png) no-repeat left top;
 }
 
 div.rele8_desligado {
     position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+    right: 170px;
+    top: 900px;
+    width: 200px;
+    height: 95px;
     border: none;
 	background: url(lampada_desligada.png) no-repeat left top;
 }
 
 div.rele9_ligado {
     position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+    right: 620px;
+    top: 900px;
+    width: 200px;
+    height: 95px;
     border: none;
     background: url(lampada_ligada.png) no-repeat left top;
 }
 
 div.rele9_desligado {
     position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+    right: 620px;
+    top: 900px;
+    width: 200px;
+    height: 95px;
     border: none;
 	background: url(lampada_desligada.png) no-repeat left top;
 }
 
 div.rele10_ligado {
-    position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+     position: absolute;
+    right: 170px;
+    top: 1100px;
+    width: 200px;
+    height: 95px;
     border: none;
     background: url(lampada_ligada.png) no-repeat left top;
 }
 
 div.rele10_desligado {
-    position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+      position: absolute;
+    right: 170px;
+    top: 1100px;
+    width: 200px;
+    height: 95px;
     border: none;
 	background: url(lampada_desligada.png) no-repeat left top;
 }
 
 div.rele11_ligado {
-    position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+     position: absolute;
+    right: 620px;
+    top: 1100px;
+    width: 200px;
+    height: 95px;
     border: none;
     background: url(lampada_ligada.png) no-repeat left top;
 }
 
 div.rele11_desligado {
     position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+    right: 620px;
+    top: 1100px;
+    width: 200px;
+    height: 95px;
     border: none;
 	background: url(lampada_desligada.png) no-repeat left top;
 }
 
 div.rele12_ligado {
-    position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+     position: absolute;
+    right: 170px;
+    top: 1300px;
+    width: 200px;
+    height: 95px;
     border: none;
     background: url(lampada_ligada.png) no-repeat left top;
 }
 
 div.rele12_desligado {
-    position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+     position: absolute;
+    right: 170px;
+    top: 1300px;
+    width: 200px;
+    height: 95px;
     border: none;
 	background: url(lampada_desligada.png) no-repeat left top;
 }
 
 div.rele13_ligado {
     position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+    right: 620px;
+    top: 1300px;
+    width: 200px;
+    height: 95px;
     border: none;
     background: url(lampada_ligada.png) no-repeat left top;
 }
 
 div.rele13_desligado {
-    position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+   position: absolute;
+    right: 620px;
+    top: 1300px;
+    width: 200px;
+    height: 95px;
     border: none;
 	background: url(lampada_desligada.png) no-repeat left top;
 }
 
 div.rele14_ligado {
-    position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+     position: absolute;
+    right: 170px;
+    top: 1500px;
+    width: 200px;
+    height: 95px;
     border: none;
     background: url(lampada_ligada.png) no-repeat left top;
 }
 
 div.rele14_desligado {
-    position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+     position: absolute;
+    right: 170px;
+    top: 1500px;
+    width: 200px;
+    height: 95px;
     border: none;
 	background: url(lampada_desligada.png) no-repeat left top;
 }
 
 div.rele15_ligado {
     position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+    right: 620px;
+    top: 1500px;
+    width: 200px;
+    height: 95px;
     border: none;
     background: url(lampada_ligada.png) no-repeat left top;
 }
 
 div.rele15_desligado {
-    position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+  position: absolute;
+    right: 620px;
+    top: 1500px;
+    width: 200px;
+    height: 95px;
     border: none;
 	background: url(lampada_desligada.png) no-repeat left top;
 }
 
 div.rele16_ligado {
-    position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+      position: absolute;
+    right: 170px;
+    top: 1700px;
+    width: 200px;
+    height: 95px;
     border: none;
     background: url(lampada_ligada.png) no-repeat left top;
 }
 
-div.rele17_desligado {
-    position: absolute;
-    right: -110px;
-    top: 387px;
-    width: 300px;
-    height: 206px;
+div.rele16_desligado {
+     position: absolute;
+    right: 170px;
+    top: 1700px;
+    width: 200px;
+    height: 95px;
     border: none;
 	background: url(lampada_desligada.png) no-repeat left top;
 }
