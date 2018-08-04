@@ -34,7 +34,7 @@ div.rele1_ligado {
     height: 206px;
     border: none;
 		margin:auto;
-    background: url(lampada_ligada.png) no-repeat left top;
+    background: url(https://raw.githubusercontent.com/adiliofranco/adiliofranco.github.io/679475b2/la.png) no-repeat left top;
 }
 
 div.rele1_desligado {
