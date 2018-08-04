@@ -495,11 +495,11 @@ position: absolute;
 
 
 #botao{
-        position: absolute;
-    right: 500px;
-    top: 90px;
-    width: 220px;
-    height: 256px;
+         position: absolute;
+    right: 620px;
+    top: 100px;
+    width: 200px;
+    height: 95px;
 }
 
 .botao {
@@ -532,11 +532,11 @@ position: absolute;
 }
 
 #botao_2{
-       position: absolute;
-    right: 230px;
-    top: 87px;
-    width: 105px;
-    height: 256px;
+         position: absolute;
+    right: 170px;
+    top: 100px;
+    width: 200px;
+    height: 95px;
 }
 
 .botao_2 {
@@ -569,11 +569,11 @@ position: absolute;
 }
 
 #botao_3{
-        position: absolute;
-    right: 500px;
-    top: 90px;
-    width: 220px;
-    height: 256px;
+       position: absolute;
+    right: 620px;
+    top: 300px;
+    width: 200px;
+    height: 95px;
 }
 
 .botao_3 {
@@ -606,11 +606,11 @@ position: absolute;
 }
 
 #botao_4{
-        position: absolute;
-    right: 500px;
-    top: 90px;
-    width: 220px;
-    height: 256px;
+           position: absolute;
+    right: 170px;
+    top: 300px;
+    width: 200px;
+    height: 95px;
 }
 
 .botao_4 {
@@ -643,11 +643,11 @@ position: absolute;
 }
 
 #botao_5{
-        position: absolute;
-    right: 500px;
-    top: 90px;
-    width: 220px;
-    height: 256px;
+         position: absolute;
+    right: 620px;
+    top: 500px;
+    width: 200px;
+    height: 95px;
 }
 
 .botao_5 {
@@ -680,11 +680,11 @@ position: absolute;
 }
 
 #botao_6{
-        position: absolute;
-    right: 500px;
-    top: 90px;
-    width: 220px;
-    height: 256px;
+           position: absolute;
+    right: 170px;
+    top: 500px;
+    width: 200px;
+    height: 95px;;
 }
 
 .botao_6 {
@@ -717,11 +717,11 @@ position: absolute;
 }
 
 #botao_7{
-        position: absolute;
-    right: 500px;
-    top: 90px;
-    width: 220px;
-    height: 256px;
+           position: absolute;
+    right: 620px;
+    top: 700px;
+    width: 200px;
+    height: 95px;
 }
 
 .botao_7 {
@@ -754,11 +754,11 @@ position: absolute;
 }
 
 #botao_8{
-        position: absolute;
-    right: 500px;
-    top: 90px;
-    width: 220px;
-    height: 256px;
+           position: absolute;
+    right: 170px;
+    top: 900px;
+    width: 200px;
+    height: 95px;
 }
 
 .botao_8 {
@@ -791,11 +791,11 @@ position: absolute;
 }
 
 #botao_9{
-        position: absolute;
-    right: 500px;
-    top: 90px;
-    width: 220px;
-    height: 256px;
+                 position: absolute;
+    right: 620px;
+    top: 900px;
+    width: 200px;
+    height: 95px;
 }
 
 .botao_9 {
@@ -828,11 +828,11 @@ position: absolute;
 }
 
 #botao_10{
-        position: absolute;
-    right: 500px;
-    top: 90px;
-    width: 220px;
-    height: 256px;
+            position: absolute;
+    right: 170px;
+    top: 1100px;
+    width: 200px;
+    height: 95px;
 }
 
 .botao_10 {
@@ -864,11 +864,11 @@ position: absolute;
 	top:1px;
 }
 #botao_11{
-        position: absolute;
-    right: 500px;
-    top: 90px;
-    width: 220px;
-    height: 256px;
+                 position: absolute;
+    right: 620px;
+    top: 1100px;
+    width: 200px;
+    height: 95px;
 }
 
 .botao_11 {
@@ -901,11 +901,11 @@ position: absolute;
 }
 
 #botao_12{
-        position: absolute;
-    right: 500px;
-    top: 90px;
-    width: 220px;
-    height: 256px;
+           position: absolute;
+    right: 170px;
+    top: 1300px;
+    width: 200px;
+    height: 95px;
 }
 
 .botao_12 {
@@ -938,11 +938,11 @@ position: absolute;
 }
 
 #botao_13{
-        position: absolute;
-    right: 500px;
-    top: 90px;
-    width: 220px;
-    height: 256px;
+    position: absolute;
+    right: 620px;
+    top: 1300px;
+    width: 200px;
+    height: 95px;
 }
 
 .botao_13 {
@@ -975,11 +975,11 @@ position: absolute;
 }
 
 #botao_14{
-        position: absolute;
-    right: 500px;
-    top: 90px;
-    width: 220px;
-    height: 256px;
+               position: absolute;
+    right: 170px;
+    top: 1500px;
+    width: 200px;
+    height: 95px;
 }
 
 .botao_14 {
@@ -1012,12 +1012,11 @@ position: absolute;
 }
 
 #botao_15{
-        position: absolute;
-    right: 500px;
-    top: 90px;
-    width: 220px;
-    height: 256px;
-}
+          position: absolute;
+    right: 620px;
+    top: 1500px;
+    width: 200px;
+    height: 95px;
 
 .botao_15 {
 	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
@@ -1049,11 +1048,11 @@ position: absolute;
 }
 
 #botao_16{
-        position: absolute;
-    right: 500px;
-    top: 90px;
-    width: 220px;
-    height: 256px;
+              position: absolute;
+    right: 170px;
+    top: 1700px;
+    width: 200px;
+    height: 95px;
 }
 
 .botao_16 {
