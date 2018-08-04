@@ -63,6 +63,7 @@ div.rele2_desligado {
     border: none;
 	background: url(lampada_desligada.png) no-repeat left top;
 }
+
 div.rele3_ligado {
     position: absolute;
     right: -110px;
@@ -82,6 +83,269 @@ div.rele3_desligado {
     border: none;
 	background: url(lampada_desligada.png) no-repeat left top;
 }
+
+div.rele4_ligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+    background: url(lampada_ligada.png) no-repeat left top;
+}
+
+div.rele4_desligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+	background: url(lampada_desligada.png) no-repeat left top;
+}
+
+div.rele5_ligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+    background: url(lampada_ligada.png) no-repeat left top;
+}
+
+div.rele5_desligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+	background: url(lampada_desligada.png) no-repeat left top;
+}
+
+div.rele6_ligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+    background: url(lampada_ligada.png) no-repeat left top;
+}
+
+div.rele6_desligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+	background: url(lampada_desligada.png) no-repeat left top;
+}
+
+div.rele7_ligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+    background: url(lampada_ligada.png) no-repeat left top;
+}
+
+div.rele7_desligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+	background: url(lampada_desligada.png) no-repeat left top;
+}
+
+div.rele8_ligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+    background: url(lampada_ligada.png) no-repeat left top;
+}
+
+div.rele8_desligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+	background: url(lampada_desligada.png) no-repeat left top;
+}
+
+div.rele9_ligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+    background: url(lampada_ligada.png) no-repeat left top;
+}
+
+div.rele9_desligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+	background: url(lampada_desligada.png) no-repeat left top;
+}
+
+div.rele10_ligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+    background: url(lampada_ligada.png) no-repeat left top;
+}
+
+div.rele10_desligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+	background: url(lampada_desligada.png) no-repeat left top;
+}
+
+div.rele11_ligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+    background: url(lampada_ligada.png) no-repeat left top;
+}
+
+div.rele11_desligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+	background: url(lampada_desligada.png) no-repeat left top;
+}
+
+div.rele12_ligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+    background: url(lampada_ligada.png) no-repeat left top;
+}
+
+div.rele12_desligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+	background: url(lampada_desligada.png) no-repeat left top;
+}
+
+div.rele13_ligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+    background: url(lampada_ligada.png) no-repeat left top;
+}
+
+div.rele13_desligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+	background: url(lampada_desligada.png) no-repeat left top;
+}
+
+div.rele14_ligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+    background: url(lampada_ligada.png) no-repeat left top;
+}
+
+div.rele14_desligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+	background: url(lampada_desligada.png) no-repeat left top;
+}
+
+div.rele15_ligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+    background: url(lampada_ligada.png) no-repeat left top;
+}
+
+div.rele15_desligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+	background: url(lampada_desligada.png) no-repeat left top;
+}
+
+div.rele16_ligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+    background: url(lampada_ligada.png) no-repeat left top;
+}
+
+div.rele17_desligado {
+    position: absolute;
+    right: -110px;
+    top: 387px;
+    width: 300px;
+    height: 206px;
+    border: none;
+	background: url(lampada_desligada.png) no-repeat left top;
+}
+
+
+
 #div1 {
 	    position: absolute;
     right: 385px;
@@ -110,6 +374,124 @@ div.rele3_desligado {
     width: 350px;
     height: 150px;
 }
+#div4 {
+	    position: absolute;
+    right: 2px;
+    top: 40px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    width: 350px;
+    height: 150px;
+}
+#div5 {
+	    position: absolute;
+    right: 2px;
+    top: 40px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    width: 350px;
+    height: 150px;
+}
+#div6 {
+	    position: absolute;
+    right: 2px;
+    top: 40px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    width: 350px;
+    height: 150px;
+}
+#div7 {
+	    position: absolute;
+    right: 2px;
+    top: 40px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    width: 350px;
+    height: 150px;
+}
+#div8 {
+	    position: absolute;
+    right: 2px;
+    top: 40px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    width: 350px;
+    height: 150px;
+}
+#div9 {
+	    position: absolute;
+    right: 2px;
+    top: 40px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    width: 350px;
+    height: 150px;
+}
+#div10 {
+	    position: absolute;
+    right: 2px;
+    top: 40px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    width: 350px;
+    height: 150px;
+}
+#div11 {
+	    position: absolute;
+    right: 2px;
+    top: 40px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    width: 350px;
+    height: 150px;
+}
+#div12 {
+	    position: absolute;
+    right: 2px;
+    top: 40px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    width: 350px;
+    height: 150px;
+}
+#div13 {
+	    position: absolute;
+    right: 2px;
+    top: 40px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    width: 350px;
+    height: 150px;
+}
+#div14 {
+	    position: absolute;
+    right: 2px;
+    top: 40px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    width: 350px;
+    height: 150px;
+}
+#div15 {
+	    position: absolute;
+    right: 2px;
+    top: 40px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    width: 350px;
+    height: 150px;
+}
+#div16 {
+	    position: absolute;
+    right: 2px;
+    top: 40px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    width: 350px;
+    height: 150px;
+}
+
 
 
 #botao{
@@ -219,6 +601,486 @@ div.rele3_desligado {
 }
 
 }.botao_3:active {
+	position:relative;
+	top:1px;
+}
+
+#botao_4{
+        position: absolute;
+    right: 500px;
+    top: 90px;
+    width: 220px;
+    height: 256px;
+}
+
+.botao_4 {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 0px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.1, #16ADFF), color-stop(1, #26A8FF) );
+	background:-moz-linear-gradient( center top, #16ADFF 5%, #26A8FF 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#16ADFF', endColorstr='#26A8FF');
+	background-color:#ededed;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 100px;
+        text-align: center;
+}
+
+}.botao_4:active {
+	position:relative;
+	top:1px;
+}
+
+#botao_5{
+        position: absolute;
+    right: 500px;
+    top: 90px;
+    width: 220px;
+    height: 256px;
+}
+
+.botao_5 {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 0px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.1, #16ADFF), color-stop(1, #26A8FF) );
+	background:-moz-linear-gradient( center top, #16ADFF 5%, #26A8FF 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#16ADFF', endColorstr='#26A8FF');
+	background-color:#ededed;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 100px;
+        text-align: center;
+}
+
+}.botao_5:active {
+	position:relative;
+	top:1px;
+}
+
+#botao_6{
+        position: absolute;
+    right: 500px;
+    top: 90px;
+    width: 220px;
+    height: 256px;
+}
+
+.botao_6 {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 0px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.1, #16ADFF), color-stop(1, #26A8FF) );
+	background:-moz-linear-gradient( center top, #16ADFF 5%, #26A8FF 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#16ADFF', endColorstr='#26A8FF');
+	background-color:#ededed;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 100px;
+        text-align: center;
+}
+
+}.botao_6:active {
+	position:relative;
+	top:1px;
+}
+
+#botao_7{
+        position: absolute;
+    right: 500px;
+    top: 90px;
+    width: 220px;
+    height: 256px;
+}
+
+.botao_7 {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 0px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.1, #16ADFF), color-stop(1, #26A8FF) );
+	background:-moz-linear-gradient( center top, #16ADFF 5%, #26A8FF 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#16ADFF', endColorstr='#26A8FF');
+	background-color:#ededed;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 100px;
+        text-align: center;
+}
+
+}.botao_7:active {
+	position:relative;
+	top:1px;
+}
+
+#botao_8{
+        position: absolute;
+    right: 500px;
+    top: 90px;
+    width: 220px;
+    height: 256px;
+}
+
+.botao_8 {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 0px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.1, #16ADFF), color-stop(1, #26A8FF) );
+	background:-moz-linear-gradient( center top, #16ADFF 5%, #26A8FF 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#16ADFF', endColorstr='#26A8FF');
+	background-color:#ededed;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 100px;
+        text-align: center;
+}
+
+}.botao_8:active {
+	position:relative;
+	top:1px;
+}
+
+#botao_9{
+        position: absolute;
+    right: 500px;
+    top: 90px;
+    width: 220px;
+    height: 256px;
+}
+
+.botao_9 {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 0px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.1, #16ADFF), color-stop(1, #26A8FF) );
+	background:-moz-linear-gradient( center top, #16ADFF 5%, #26A8FF 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#16ADFF', endColorstr='#26A8FF');
+	background-color:#ededed;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 100px;
+        text-align: center;
+}
+
+}.botao_9:active {
+	position:relative;
+	top:1px;
+}
+
+#botao_10{
+        position: absolute;
+    right: 500px;
+    top: 90px;
+    width: 220px;
+    height: 256px;
+}
+
+.botao_10 {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 0px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.1, #16ADFF), color-stop(1, #26A8FF) );
+	background:-moz-linear-gradient( center top, #16ADFF 5%, #26A8FF 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#16ADFF', endColorstr='#26A8FF');
+	background-color:#ededed;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 100px;
+        text-align: center;
+}
+
+}.botao_10:active {
+	position:relative;
+	top:1px;
+}
+#botao_11{
+        position: absolute;
+    right: 500px;
+    top: 90px;
+    width: 220px;
+    height: 256px;
+}
+
+.botao_11 {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 0px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.1, #16ADFF), color-stop(1, #26A8FF) );
+	background:-moz-linear-gradient( center top, #16ADFF 5%, #26A8FF 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#16ADFF', endColorstr='#26A8FF');
+	background-color:#ededed;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 100px;
+        text-align: center;
+}
+
+}.botao_11:active {
+	position:relative;
+	top:1px;
+}
+
+#botao_12{
+        position: absolute;
+    right: 500px;
+    top: 90px;
+    width: 220px;
+    height: 256px;
+}
+
+.botao_12 {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 0px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.1, #16ADFF), color-stop(1, #26A8FF) );
+	background:-moz-linear-gradient( center top, #16ADFF 5%, #26A8FF 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#16ADFF', endColorstr='#26A8FF');
+	background-color:#ededed;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 100px;
+        text-align: center;
+}
+
+}.botao_12:active {
+	position:relative;
+	top:1px;
+}
+
+#botao_13{
+        position: absolute;
+    right: 500px;
+    top: 90px;
+    width: 220px;
+    height: 256px;
+}
+
+.botao_13 {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 0px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.1, #16ADFF), color-stop(1, #26A8FF) );
+	background:-moz-linear-gradient( center top, #16ADFF 5%, #26A8FF 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#16ADFF', endColorstr='#26A8FF');
+	background-color:#ededed;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 100px;
+        text-align: center;
+}
+
+}.bota_13:active {
+	position:relative;
+	top:1px;
+}
+
+#botao_14{
+        position: absolute;
+    right: 500px;
+    top: 90px;
+    width: 220px;
+    height: 256px;
+}
+
+.botao_14 {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 0px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.1, #16ADFF), color-stop(1, #26A8FF) );
+	background:-moz-linear-gradient( center top, #16ADFF 5%, #26A8FF 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#16ADFF', endColorstr='#26A8FF');
+	background-color:#ededed;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 100px;
+        text-align: center;
+}
+
+}.botao_14:active {
+	position:relative;
+	top:1px;
+}
+
+#botao_15{
+        position: absolute;
+    right: 500px;
+    top: 90px;
+    width: 220px;
+    height: 256px;
+}
+
+.botao_15 {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 0px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.1, #16ADFF), color-stop(1, #26A8FF) );
+	background:-moz-linear-gradient( center top, #16ADFF 5%, #26A8FF 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#16ADFF', endColorstr='#26A8FF');
+	background-color:#ededed;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 100px;
+        text-align: center;
+}
+
+}.botao_15:active {
+	position:relative;
+	top:1px;
+}
+
+#botao_16{
+        position: absolute;
+    right: 500px;
+    top: 90px;
+    width: 220px;
+    height: 256px;
+}
+
+.botao_16 {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 0px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.1, #16ADFF), color-stop(1, #26A8FF) );
+	background:-moz-linear-gradient( center top, #16ADFF 5%, #26A8FF 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#16ADFF', endColorstr='#26A8FF');
+	background-color:#ededed;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 100px;
+        text-align: center;
+}
+
+}.botao_16:active {
 	position:relative;
 	top:1px;
 }
