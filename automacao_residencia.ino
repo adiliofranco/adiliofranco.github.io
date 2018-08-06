@@ -438,20 +438,27 @@ void loop()
           client.println("<head>");
           client.println("<title>Home Conect - Automacao Residencial</title>");
           client.println("<meta http-equiv='Content-Type' content='text/html; charset=ISO-8859-1'>");
-          client.println("<meta name='viewport' content='width=720, initial-scale=0.5' />");
+          client.println("<meta name='viewport' content='width=device-width, initial-scale=1'>");
+          client.println("<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' />");
+          client.println("<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>");
+          client.println("<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'></script>");
           client.println("<link rel='stylesheet' type='text/css' href='https://github.com/adiliofranco/adiliofranco.github.io/blob/master/automacao_residencial.css' />");
           client.println("<script type='text/javascript' src='https://github.com/adiliofranco/adiliofranco.github.io/blob/master/automacao_residencial.js'></script>");
           client.println("</head>");
           client.println("<body>");
-                
-          client.println("<div id='div1'>Rele 1</div>");
-          client.print("<div id='rele'></div><div id='estado' style='visibility: hidden;'>");
+          client.println("<div class='container-fluid'>");
+          client.println("  <div class='row'>");
+          client.println("    <div class='col-xs-6 text-center'>");
+          client.println("        <div id='rele'></div><div id='estado' style='visibility: hidden;'>");
           client.print(ligado);
-          client.println("</div>");
-
-          client.println("<div id='div2'>Rele 2</div>");
-          client.print("<div id='rele_2'></div><div id='estado_2' style='visibility: hidden;'>");
-          client.print(ligado_2);
+          client.println("        </div>");
+          client.println("    </div>");
+          client.println("    <div class='col-xs-6 text-center'>");
+          client.println("        <div id='rele_2'></div><div id='estado_2' style='visibility: hidden;'>");
+          client.println(ligado_2);
+          client.println("        </div>");
+          client.println("    </div>");
+          client.println("  </div>");
           client.println("</div>");
 
           client.println("<div id='div3'>Rele 3</div>");
